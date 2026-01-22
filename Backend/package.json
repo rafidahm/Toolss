@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "rafid"
+  },
+  "keywords": [
+    "ok"
+  ],
+  "author": "rafid",
+  "license": "ISC"
+}
